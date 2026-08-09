@@ -1,0 +1,7 @@
+*-backups/
+*.bak
+*.lck
+.DS_Store
+fp-info-cache
+fabrication-toolkit-options.json
+production

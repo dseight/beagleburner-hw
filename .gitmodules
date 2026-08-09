@@ -1,0 +1,3 @@
+[submodule "kicad-beagleboard-library"]
+	path = kicad-beagleboard-library
+	url = https://github.com/dseight/kicad-beagleboard-library.git
